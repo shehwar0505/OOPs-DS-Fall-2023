@@ -31,8 +31,5 @@ This repository includes various coding assignments and projects that I worked o
   - Graphs and Algorithms (DFS, BFS)
   - Sorting and Searching Algorithms
 
-## Installation
-To get started, clone this repository to your local machine:
-
 ```bash
 git clone https://github.com/your-username/OOPs-DS-Fall-2023.git
